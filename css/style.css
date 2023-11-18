@@ -39,3 +39,11 @@
     max-width: 550px;
     text-align: center;
 }
+
+@media screen and (max-width: 500px ){
+    .container header{
+        font-size: 50px;
+        text-align: center;
+        width: 100%;
+    }
+}
